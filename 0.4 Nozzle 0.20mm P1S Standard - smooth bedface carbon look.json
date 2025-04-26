@@ -1,0 +1,39 @@
+{
+    "brim_width": "7",
+    "default_acceleration": [
+        "6000"
+    ],
+    "elefant_foot_compensation": "0.075",
+    "enable_support": "1",
+    "from": "User",
+    "fuzzy_skin_point_distance": "0.4",
+    "fuzzy_skin_thickness": "0.2",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": [
+        "30"
+    ],
+    "initial_layer_print_height": "0.1",
+    "initial_layer_speed": [
+        "30"
+    ],
+    "ironing_flow": "15%",
+    "ironing_type": "topmost",
+    "min_bead_width": "50%",
+    "min_feature_size": "20%",
+    "name": "0.20mm Standard - smooth bedface logo no fuzz",
+    "only_one_wall_first_layer": "1",
+    "overhang_totally_speed": [
+        "19"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "0.20mm Standard - smooth bedface logo no fuzz",
+    "seam_position": "random",
+    "smooth_coefficient": "80",
+    "version": "1.10.0.32",
+    "wall_generator": "arachne"
+}
